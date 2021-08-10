@@ -5,8 +5,6 @@
 import pandas as pd
 import numpy as np
 
-def testfunc():
-    print("test")
 
 #pd csv read function
 def read_csv(file_path,col_name=None,header_line=None,delimiter=None):
